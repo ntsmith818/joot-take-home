@@ -4,7 +4,7 @@
   ```
   - Customer -
       POST /customers/create
-      GET /customers - list of customers
+      GET /customers 
       GET /customers/{customerId}
       DELETE /customers/{customerId}/delete
       PUT /customers/{customerId}/update
